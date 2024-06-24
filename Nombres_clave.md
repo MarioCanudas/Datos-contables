@@ -1,4 +1,4 @@
-Nombres claves:
+#Nombres claves:
 -CC : Cobro a clientes
 -PP : Pago a proveedores
 -GYA : Gastos y activos
